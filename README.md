@@ -1,2 +1,2 @@
 # iodo
-We upload the part of codes and data for our work in Investigating Opinion Distribution in the cOntroversy on social media.
+We upload the codes and data for our work in investigating ppinion distribution in the controversy on social media.
